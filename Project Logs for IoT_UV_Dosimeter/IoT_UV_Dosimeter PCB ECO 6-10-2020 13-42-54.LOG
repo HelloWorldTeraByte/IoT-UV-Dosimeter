@@ -1,0 +1,6 @@
+Added Component: Designator=U?(ANNA_LGA52S_650X650)
+Add component (AddParameter): Name = "Manufacturer"; Value = "u-blox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Stand-alone Bluetooth low energy module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "672-ANNA-B112-01BCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ANNA-B112-OPENCPU"; VariantName = "[No Variations]"
